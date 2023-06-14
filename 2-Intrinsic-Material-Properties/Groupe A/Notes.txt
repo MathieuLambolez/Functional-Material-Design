@@ -4,7 +4,7 @@ Intrinsèques : qui est relatif, inhérent à quelque chose, qui lui appartien
 
 En relations avec la dépendance de facteurs extérieurs.  
 
- 
+
 
 Valeur intrinsèque propre à la matière en elles même et non a son utilisation  
 
@@ -52,3 +52,20 @@ appliquée sur le cristal de quartz, sa charge peut être amplifiée artificiell
 simple à faire puisque la relation entre ces deux grandeurs est linéaire.
 
 Certains matériaux utilisent l’effet piézoélectrique inverse, ils se déforment quand un champ électrique leur est appliqué.
+
+
+La technologie piézoélectrique est un domaine de la science et de l'ingénierie qui se concentre sur les matériaux piézoélectriques et leur utilisation pour générer de l'électricité ou convertir l'énergie mécanique en énergie électrique. Le mot "piézoélectrique" vient du grec "piezein", qui signifie "pression", et "électrique". Ce phénomène a été découvert pour la première fois en 1880 par les frères Pierre et Jacques Curie.
+
+Les matériaux piézoélectriques sont caractérisés par leur capacité à générer une charge électrique lorsqu'ils sont soumis à une contrainte mécanique, telle qu'une pression ou une déformation. De plus, ces matériaux peuvent également subir une déformation en réponse à un champ électrique appliqué. Cette propriété est connue sous le nom d'effet piézoélectrique direct. En utilisant cet effet, il est possible de transformer l'énergie mécanique en énergie électrique.
+
+Les matériaux piézoélectriques couramment utilisés comprennent le quartz, le tourmaline, le titanate de plomb-zirconate (PZT) et certains polymères. Ils sont largement utilisés dans diverses applications, notamment :
+
+Capteurs : Les capteurs piézoélectriques sont utilisés pour mesurer la pression, l'accélération, la force, le déplacement et d'autres paramètres physiques. Ils sont couramment utilisés dans les dispositifs médicaux, les automobiles, les avions, les smartphones, etc.
+
+Actionneurs : Les matériaux piézoélectriques peuvent être utilisés pour générer des déformations mécaniques précises en réponse à un champ électrique. Cela les rend utiles dans les actionneurs piézoélectriques, tels que les dispositifs de mise au point automatique des caméras, les systèmes d'injection de carburant et les actionneurs de précision.
+
+Générateurs d'énergie : Les matériaux piézoélectriques peuvent également être utilisés pour générer de l'électricité à partir de vibrations et de mouvements mécaniques. Par exemple, ils sont utilisés dans certains systèmes de récupération d'énergie, où ils convertissent l'énergie des pas ou des vibrations en électricité.
+
+Échographie : Les cristaux piézoélectriques sont utilisés dans les sondes d'échographie pour émettre et recevoir des ondes ultrasonores. Lorsqu'un champ électrique est appliqué, le cristal se déforme et émet des ondes sonores. Lorsque les ondes sonores se réfléchissent sur des objets dans le corps, elles sont converties en signaux électriques qui peuvent être utilisés pour créer des images.
+
+En résumé, la technologie piézoélectrique offre une grande variété d'applications, allant des capteurs aux actionneurs, en passant par les générateurs d'énergie et l'échographie. Elle joue un rôle essentiel dans de nombreux domaines de la science, de l'ingénierie et de la technologie moderne.
